@@ -1,7 +1,7 @@
 
 # Stock Price Prediction Using LSTM
 
-Welcome to my GitHub repository on stock price prediction using LSTM! In this project, I explored the predictive power of LSTM models to make accurate stock price predictions.
+Welcome to my GitHub repository on stock price prediction using LSTM! In this project, I explored the predictive power of the LSTM model to make accurate stock price predictions.
 
 ## Project Overview
 The goal of this project was to train an LSTM (Long Short-Term Memory) model on the stock price data of the company 'Advanced Auto Parts.' The dataset was sourced from Kaggle and served as the basis for our analysis.
