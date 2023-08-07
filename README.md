@@ -23,6 +23,7 @@ Market Dynamics: The stock market is influenced by various factors beyond histor
 Risk Management: Predictive models do not eliminate risks associated with stock market investments. Implement proper risk management strategies and exercise caution in real-world trading decisions.
 ## Contribution
 This project was my contribution to the group project titled 'Exploring The Predictive Power Of ARIMA, XGBoost, And LSTM Models On Stock Market Data' for the EAS 508 Statistical Learning and Data Mining course.
+[Read the complete report](https://drive.google.com/file/d/1F9zw2iQxF6zAD56bTwn5niXEtaRmrNDa/view)
 
 I hope this repository serves as a useful resource for anyone interested in stock price prediction using LSTM models. Feel free to explore, contribute, and provide feedback to enhance the project further!
 
